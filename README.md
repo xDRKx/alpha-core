@@ -1,2 +1,4 @@
 # alpha-core
-GNU/linux with android flavor
+alpha rootfs.
+
+coming soon !
